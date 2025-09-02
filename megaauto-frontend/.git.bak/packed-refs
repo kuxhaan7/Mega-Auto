@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+fa1792a451e4ba6cc32b1bd7e82d6c7b87e9b47e refs/remotes/origin/cards-improvement
+58003d813459da8838a46d2a32c2ae0f23930ed8 refs/remotes/origin/dev
+df2a0ef8ac5518cefab5815c44a5e08f1a880367 refs/remotes/origin/frnt-dev
+ff9b90efed1355d780ac7f877346eced9730482b refs/remotes/origin/frnt-dev2
+350bb1b3ee8f9e787010f5c0a6bdd174a5d1f8ea refs/remotes/origin/main
+727b8c4cd978e15d84021365449094a9124ab112 refs/remotes/origin/myProfile
+e62d7e578e825df63496b24c363656bfed5d22df refs/remotes/origin/salebymake
+830ca4373d65159bd21b474a69e4b981536802f9 refs/remotes/origin/sideFilter
